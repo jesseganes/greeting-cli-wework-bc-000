@@ -1,1 +1,2 @@
 greeting(name)
+puts ""
