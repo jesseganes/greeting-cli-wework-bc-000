@@ -1,2 +1,2 @@
 greeting(name)
-puts ""
+puts "hello #{name}"
